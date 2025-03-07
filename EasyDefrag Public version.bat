@@ -1,7 +1,7 @@
 @echo off
 echo Hello, this is the public-optimized version of my batch script called "Easydefrag", this one is coded in order to work for everyone, by the way you need to run this as administrator for it to work, thanks for using my software :)
 echo ...
-echo (extra note: this version has the features of script consolidation and scan-only missing since they require me to do lots of effort which i just didnt want to do because of them being too glitchy for me to be able to fix, i will probably relase a batch script for that tho but not in the same script)
+echo (extra note: this version doesnt have consolidation and scan-only like in the original script made for myself since they require me to do lots of effort which i just didnt want to do because of them being too glitchy for me to be able to fix, i will probably relase a batch script for that tho but not in the same script)
 
 :selection
 set /p choice=Please choose a volume letter from A: to Z: (Write only the letter in mayus, like for example "A")
