@@ -1,2 +1,1 @@
-so i wanted to upload my """projects""" here in public in order to share them
-becuz why not
+i probably upload random things in this repo
