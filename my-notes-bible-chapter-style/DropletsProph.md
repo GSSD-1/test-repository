@@ -172,3 +172,5 @@
 7:12 The mirror may show power. But it hides blood. And the blood cries out.
 
 ---
+
+Disclaimer again: this text is written by AI because im bad at writing long text, these are based on real things tho, these stories are most likely real unless i made a mistake, please dont criticize me for not being able to do all this myself, its not nice
