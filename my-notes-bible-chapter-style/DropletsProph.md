@@ -2,6 +2,7 @@
 
 > This document is NOT the Bible. This is me, Droplet, writing my own symbolic chapters of life, faith, fear, weird moments, spooky lore, and calling out stuff that goes against God's word.  
 > These are NOT to be taken as sacred scripture, but as personal reflection using chapter-style formats that mirror the Bible.  
+> This may be offensive to some people
 
 ---
 
