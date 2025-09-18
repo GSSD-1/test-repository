@@ -1,1 +1,1 @@
-I'll probably upload random things in this repo
+I'll probably upload random stuff in this repo
